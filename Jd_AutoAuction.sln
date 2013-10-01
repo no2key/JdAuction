@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jd_AutoAuction", "Jd_AutoAuction\Jd_AutoAuction.csproj", "{7B9C8CDC-B40C-4FCC-9E6A-01D0A49A6CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JdModule", "JdModule\JdModule.csproj", "{5AC46422-1C4F-457C-9204-6A9C4CBF9C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpHelper", "HttpHelper\HttpHelper.csproj", "{07F51195-FF7F-46D1-A95D-CC7ABD9100B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B9C8CDC-B40C-4FCC-9E6A-01D0A49A6CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9C8CDC-B40C-4FCC-9E6A-01D0A49A6CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9C8CDC-B40C-4FCC-9E6A-01D0A49A6CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9C8CDC-B40C-4FCC-9E6A-01D0A49A6CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC46422-1C4F-457C-9204-6A9C4CBF9C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC46422-1C4F-457C-9204-6A9C4CBF9C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC46422-1C4F-457C-9204-6A9C4CBF9C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC46422-1C4F-457C-9204-6A9C4CBF9C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F51195-FF7F-46D1-A95D-CC7ABD9100B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F51195-FF7F-46D1-A95D-CC7ABD9100B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F51195-FF7F-46D1-A95D-CC7ABD9100B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F51195-FF7F-46D1-A95D-CC7ABD9100B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
